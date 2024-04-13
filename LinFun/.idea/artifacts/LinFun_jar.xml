@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LinFun:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LinFun_jar</output-path>
+    <root id="archive" name="LinFun.jar">
+      <element id="module-output" name="LinFun" />
+    </root>
+  </artifact>
+</component>
